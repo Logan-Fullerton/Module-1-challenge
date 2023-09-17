@@ -1,1 +1,1 @@
-# Module-1-challenge
+# Mini-Project
